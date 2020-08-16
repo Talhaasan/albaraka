@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442948596672",
+    "firebase_url": "https://albaraka-turk.firebaseio.com",
+    "project_id": "albaraka-turk",
+    "storage_bucket": "albaraka-turk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442948596672:android:1a8e4a1252a4752d540e25",
+        "android_client_info": {
+          "package_name": "com.example.albaraka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442948596672-9tg19gpjene2dq6pj6mu278vae8a8s3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv1GEygQuB6FhjhRl4XRr5r7oSuPtqGhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442948596672-9tg19gpjene2dq6pj6mu278vae8a8s3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
